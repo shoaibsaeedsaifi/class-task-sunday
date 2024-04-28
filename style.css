@@ -1,25 +1,16 @@
 
-div{
+#navbar{
     color: white;
     text-decoration: none;
     margin-left: 950px;
     background-color: #efefef;
-    margin-top: 50px;
-}
-a{
-    text-decoration: none;
-    color: white;
-    word-spacing: 50%;
-    :hover color: green;
-    :active
-    :focus color: green;
-    background-color: #efefef;
-    
+    margin-top: 30px;
+    word-spacing: 10px;
 }
 *{
     background: fixed;
     background-image: url('./another.jpg');
-    background-size: cover;
+    background-size: cover
 }
 #home{
     text-align: center;
@@ -30,7 +21,7 @@ a{
     font-size: 50px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-p{
+div{
     width: 400px;
     margin-left: auto;
     margin-right: auto;
@@ -38,34 +29,31 @@ p{
     color: white;
     font-family: 'Times New Roman', Times, serif;
 }
+#btn1{
+    margin-left: 100px;
+    color:white;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+#btn2{
+    
+    margin-left: 20px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px; 
+}
 #myhome{
     color: white;
     position: fixed;
 }
 
 a:link {
-    color: green;
     text-decoration: none;}
     a:visited {
-    color:white;}
+    color:rgb(255, 255, 255);}
     a:hover {
-    color:blue;
+    color:chartreuse;
     text-decoration: underline;}
     a:active {
     color: darkcyan;}
-
-#btn{
-    color:blue;
-    width: 100px;
-    padding: 10px;
-    border-radius: 10px;
-    padding-left: 100px;
-    text-align: center;
-
-}
-#btn1k{
-
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-}
