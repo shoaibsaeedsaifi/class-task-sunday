@@ -1,7 +1,7 @@
 /*navbar*/
 #navbar{
     width: 100%;
-    color: white;
+    color:blue;
     text-decoration: none;
     margin-left: 950px;
     background-color: #efefef;
@@ -11,8 +11,9 @@
 /*background image*/
 *{
     background: fixed;
-    background-image: url('./pexels-rquiros-2330137.jpg');
+    background-image: url('pexels-rquiros-2330137.jpg');
     background-size: cover
+
 }
 #myhome{
     color: aliceblue;
@@ -29,7 +30,7 @@ div{
 }
 #btn1{
     margin-left: 100px;
-    color:blue;
+    color:white;
     padding: 10px;
     border-radius: 10px;
     border: solid;
@@ -38,7 +39,7 @@ div{
 #btn2{
     
     margin-left: 20px;
-    color: blue;
+    color: white;
     padding: 10px;
     border-radius: 10px;
     border: solid; 
@@ -51,12 +52,12 @@ div{
 a:link {
     text-decoration: none;}
     a:visited {
-    color:rgb(255, 255, 255);}
+    color:chocolate;}
     a:hover {
     color:chartreuse;
     text-decoration: underline;}
     a:active {
-    color: darkcyan;}
-body{
-    width: 100%;
-}
+    color: crimson;}
+    body{
+        width: 100%;
+    }
