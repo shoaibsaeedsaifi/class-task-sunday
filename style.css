@@ -3,10 +3,11 @@
     width: 100%;
     color:blue;
     text-decoration: none;
-    margin-left: 950px;
+    margin-left: 70%;
     background-color: #efefef;
     margin-top: 30px;
     word-spacing: 10px;
+    position: relative;
 }
 /*background image*/
 *{
